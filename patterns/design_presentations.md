@@ -143,7 +143,7 @@
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---											|  :---: 		 |   
-|Automne 2019 									| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2019 									| [présentation](https://github.com/HectorBertucat/immutabilite/blob/master/Diaporama%20Immutabilite%CC%81.pdf) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
 
 
 
